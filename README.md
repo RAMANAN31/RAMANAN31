@@ -5,10 +5,19 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ##🚀 About Me
 
 🎓 Pursuing an Integrated Master's Degree in Computer Science and Engineering (CSE) with Business Analytics
+
+
 🌱 Currently focusing on business problem-solving (consulting) and exploring machine learning and data science
-💬 Ask me about data analytics, business strategy, machine learning models, and cybersecurity insights
-📫 How to reach me: ramanan312004@gmail.com or https://www.linkedin.com/in/ramanan-g/
+
+
+💬 Ask me about data analytics, business strategy, machine learning models, and cybersecurity 
+
+
+📫 How to reach me: ramanan312004@gmail.com or https://www.linkedin.com/in/ramanan-g
+
+
 ⚡ Fun fact: I enjoy solving real-world business challenges using data-driven approaches and statistical models!
+
 
 ## 🛠️ Technologies & Tools
 
