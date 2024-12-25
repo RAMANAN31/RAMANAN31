@@ -42,4 +42,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 mail : ramanan312004@gmail.com
 
 
-Thanks for visiting my profile! Have a great day! 😊
+Thanks for visiting my profile! Have a great day! 
