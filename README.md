@@ -2,14 +2,13 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and learning new technologies. Here's a bit about me:
 
-## 🚀 About Me
+##🚀 About Me
 
-- 💼 Currently working at [Your Company] as a [Your Position]
-- 🎓 Graduated from [Your University] with a degree in [Your Degree]
-- 🌱 Currently learning [Current Learning Focus]
-- 💬 Ask me about [Topics of Expertise or Interest]
-- 📫 How to reach me: [Your Email] or [Your LinkedIn Profile]
-- ⚡ Fun fact: [An interesting fact about you]
+🎓 Pursuing an Integrated Master's Degree in Computer Science and Engineering (CSE) with Business Analytics
+🌱 Currently focusing on business problem-solving (consulting) and exploring machine learning and data science
+💬 Ask me about data analytics, business strategy, machine learning models, and cybersecurity insights
+📫 How to reach me: ramanan312004@gmail.com or https://www.linkedin.com/in/ramanan-g/
+⚡ Fun fact: I enjoy solving real-world business challenges using data-driven approaches and statistical models!
 
 ## 🛠️ Technologies & Tools
 
