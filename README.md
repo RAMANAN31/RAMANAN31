@@ -24,15 +24,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Get Started with Machine Learning](https://yourblog.com)
-- [Top 10 React Libraries You Should Know](https://yourblog.com)
-- [Understanding Asynchronous JavaScript](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📎 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ramanan-g/)) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramanan312004@gmail.com)
-
+mail : ramanan312004@gmail.com
 Thanks for visiting my profile! Have a great day! 😊
