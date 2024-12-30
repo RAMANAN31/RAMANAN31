@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![Ramanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAMANAN31&show_icons=true&theme=radical)
 
 ## 📚 Latest Blog Posts
-
+[The Importance of Feature Engineering in Machine Learning](https://medium.com/@ramanan312004/the-importance-of-feature-engineering-in-machine-learning-ed95b6762dd4)
 
 ## 📎 Connect with Me
 
