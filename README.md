@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and learning new technologies. Here's a bit about me:
 
-#🚀About Me
+# 🚀About Me
 
 🎓 Pursuing an Integrated Master's Degree in Computer Science and Engineering (CSE) with Business Analytics
 
