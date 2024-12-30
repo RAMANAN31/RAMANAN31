@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 🌱 Currently focusing on business problem-solving (consulting) and exploring machine learning and data science
 
 
-💬 Ask me about data analytics, business strategy, machine learning models, and cybersecurity 
+💬 Ask me about data analytics, business strategy, machine learning models, and Brand marketing strategies.
 
 
 📫 How to reach me: ramanan312004@gmail.com or https://www.linkedin.com/in/ramanan-g
