@@ -40,7 +40,8 @@ Fun fact: I enjoy solving real-world business challenges using data-driven appro
 
 ## Connect with Me
 
-[LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] : https://www.linkedin.com/in/ramanan-g
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramanan-g)
+
  
 mail : ramanan312004@gmail.com
 
