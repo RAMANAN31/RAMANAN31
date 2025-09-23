@@ -1,4 +1,4 @@
-# Hi there, I'm Ramanan! 👋
+# Hi there, I'm Ramanan! 
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and learning new technologies. Here's a bit about me:
 
@@ -40,7 +40,7 @@ Fun fact: I enjoy solving real-world business challenges using data-driven appro
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] : https://www.linkedin.com/in/ramanan-g
+[LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] : https://www.linkedin.com/in/ramanan-g
  
 mail : ramanan312004@gmail.com
 
