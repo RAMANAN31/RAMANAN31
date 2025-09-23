@@ -43,7 +43,7 @@ Fun fact: I enjoy solving real-world business challenges using data-driven appro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramanan-g)
 
  
-mail : ramanan312004@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white)](mailto:ramanan312004@gmail.com)
 
 
 Thanks for visiting my profile! Have a great day! 
