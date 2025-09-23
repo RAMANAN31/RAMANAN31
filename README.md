@@ -2,21 +2,23 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and learning new technologies. Here's a bit about me:
 
-# 🚀About Me
+# About Me
 
-🎓 Pursuing an Integrated Master's Degree in Computer Science and Engineering (CSE) with Business Analytics
+Pursuing an Integrated Master's Degree in Computer Science and Engineering (CSE) with a specialization in Business Analytics  
 
+Currently focusing on business problem-solving (consulting) while exploring machine learning and data science  
 
-🌱 Currently focusing on business problem-solving (consulting) and exploring machine learning and data science
-
-
-💬 Ask me about data analytics, business strategy, machine learning models, and Brand marketing strategies.
-
-
-📫 How to reach me: ramanan312004@gmail.com or https://www.linkedin.com/in/ramanan-g
+Ask me about:  
+- Data Analytics and Business Strategy  
+- Machine Learning Models and Applications  
+- Brand Marketing Strategies  
 
 
-⚡ Fun fact: I enjoy solving real-world business challenges using data-driven approaches and statistical models!
+
+How to reach me: ramanan312004@gmail.com or https://www.linkedin.com/in/ramanan-g
+
+
+Fun fact: I enjoy solving real-world business challenges using data-driven approaches and statistical models!
 
 
 ## 🛠️ Technologies & Tools
