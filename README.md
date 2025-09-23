@@ -38,9 +38,9 @@ Fun fact: I enjoy solving real-world business challenges using data-driven appro
 ## 📚 Latest Blog Posts
 [The Importance of Feature Engineering in Machine Learning](https://medium.com/@ramanan312004/the-importance-of-feature-engineering-in-machine-learning-ed95b6762dd4)
 
-## 📎 Connect with Me
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ramanan-g/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile] : (https://www.linkedin.com/in/ramanan-g/)) 
  
 mail : ramanan312004@gmail.com
 
