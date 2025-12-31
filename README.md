@@ -32,8 +32,6 @@ Fun fact: I enjoy solving real-world business challenges using data-driven appro
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-## 📈 GitHub Stats
-![Ramanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAMANAN31&show_icons=true&theme=radical)
 
 ## 📚 Latest Blog Posts
 [The Importance of Feature Engineering in Machine Learning](https://medium.com/@ramanan312004/the-importance-of-feature-engineering-in-machine-learning-ed95b6762dd4)
