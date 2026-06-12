@@ -1,6 +1,12 @@
 # Hi there, I'm Ramanan! 
 
-Welcome to my GitHub profile! I'm a passionate Analyst and  developer with a love for creating innovative solutions and learning new technologies. Here's a bit about me:
+
+Welcome to my GitHub profile!
+
+I'm a Data Analytics student, AI enthusiast, and aspiring Business Analyst passionate about turning data into insights and building solutions that solve real-world problems. 
+
+Here, you'll find my projects, experiments, and continuous learning journey across Data Analytics, Machine Learning, Generative AI, and innovative technologies.
+
 
 # About Me
 
