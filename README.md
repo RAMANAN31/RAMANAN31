@@ -135,27 +135,106 @@ Highlights
 https://medium.com/@ramanan312004/the-importance-of-feature-engineering-in-machine-learning-ed95b6762dd4
 
 ---
+---
 
-# GitHub Statistics
+## 🚀 Current Focus
 
-![](https://github-readme-stats.vercel.app/api?username=RAMANAN31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+> Building practical, business-driven analytics solutions that transform data into actionable insights.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAMANAN31&layout=compact&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=RAMANAN31&theme=tokyonight&hide_border=true)
+| 🎯 Focus Area | 📈 Current Progress |
+| :----------- | :----------------- |
+| Production-ready Analytics Projects | 🔄 In Progress |
+| Business Intelligence Dashboards | 🔄 In Progress |
+| Machine Learning Applications | 🚀 Exploring |
+| Cloud Analytics & Data Engineering | 📚 Learning |
+| Data Analyst / Business Analyst Preparation | 💼 Actively Preparing |
 
 ---
 
-# GitHub Trophies
+## 📊 My Analytics Workflow
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RAMANAN31&theme=algolia&no-frame=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+```mermaid
+flowchart LR
+    A(Business Problem) --> B(Data Collection)
+    B --> C(Data Cleaning)
+    C --> D(Exploratory Data Analysis)
+    D --> E(Feature Engineering)
+    E --> F(Machine Learning)
+    F --> G(Data Visualization)
+    G --> H(Business Insights & Recommendations)
+```
 
 ---
 
-# GitHub Activity Graph
+## 🧠 Areas of Interest
 
-[![Ramanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAMANAN31&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+<tr>
+<td width="50%">
 
+### Analytics
+
+- 📊 Business Analytics
+- 📈 Data Analytics
+- 📉 Business Intelligence
+- 📋 Dashboard Development
+- 📌 KPI Reporting
+
+</td>
+
+<td width="50%">
+
+### AI & Engineering
+
+- 🤖 Machine Learning
+- ⚙️ Data Engineering
+- 🗄️ SQL Development
+- 📡 Predictive Analytics
+- ✨ Generative AI
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ My Approach
+
+```text
+Understand the Business Problem
+           │
+           ▼
+Acquire & Validate Data
+           │
+           ▼
+Clean, Transform & Engineer Features
+           │
+           ▼
+Analyze Patterns & Trends
+           │
+           ▼
+Develop ML Models / Dashboards
+           │
+           ▼
+Generate Actionable Business Insights
+           │
+           ▼
+Support Better Decision Making
+```
+
+---
+
+## 🌱 Currently Learning
+
+![SQL](https://img.shields.io/badge/Advanced_SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=flat-square)
+![Cloud Analytics](https://img.shields.io/badge/Cloud_Analytics-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
+
+---
+
+> **"I enjoy transforming complex datasets into meaningful insights that enable smarter business decisions."**
 ---
 
 # Connect With Me
