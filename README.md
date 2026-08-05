@@ -1,20 +1,22 @@
 # Hi, I'm Ramanan G
 
-## Data & Business Analyst | Business Analytics | Machine Learning | Data Visualization
+### Data & Business Analyst | Business Analytics | Machine Learning | Data Visualization
 
-I am an aspiring Data and Business Analyst currently pursuing an Integrated M.Tech in Computer Science and Engineering with a specialization in Business Analytics at VIT Chennai.
+![](https://komarev.com/ghpvc/?username=RAMANAN31&style=flat-square&color=blue)
 
-I enjoy building analytics solutions that transform raw data into meaningful business insights. My interests span data analytics, business intelligence, machine learning, predictive analytics, and data visualization. I am passionate about solving real-world business problems using data-driven decision making.
+I am an aspiring Data & Business Analyst pursuing an Integrated M.Tech in Computer Science and Engineering with a specialization in Business Analytics at VIT Chennai.
+
+My interests lie in solving business problems using analytics, machine learning, business intelligence, and data visualization. I enjoy building end-to-end analytical solutions that convert raw data into actionable insights.
 
 ---
 
 ## About Me
 
-- Integrated M.Tech in Computer Science and Engineering (Business Analytics), VIT Chennai
-- Interested in Data Analytics, Business Intelligence, Machine Learning, and Consulting
-- Experienced in Python, SQL, Power BI, Tableau, BigQuery, and data visualization
-- Currently learning Cloud Analytics, MLOps, Advanced SQL, and Generative AI applications
-- Looking for opportunities as a Data Analyst, Business Analyst, or Analytics Consultant
+- Integrated M.Tech in Computer Science & Engineering (Business Analytics)
+- Passionate about Data Analytics, Business Intelligence, Machine Learning and AI
+- Experienced in Python, SQL, Power BI, Tableau, BigQuery and Predictive Analytics
+- Currently exploring Cloud Analytics, MLOps and Generative AI
+- Looking for Data Analyst, Business Analyst and Analytics Consultant opportunities
 
 ---
 
@@ -27,24 +29,32 @@ I enjoy building analytics solutions that transform raw data into meaningful bus
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
 
-### Data Analytics & Visualization
+---
+
+### Data Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Machine Learning & Data Science
+---
+
+### Machine Learning
 
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ### Tools
 
@@ -58,97 +68,104 @@ I enjoy building analytics solutions that transform raw data into meaningful bus
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Banking Customer Risk & Revenue Intelligence System
+## Banking Customer Risk & Revenue Intelligence System
 
-An end-to-end banking analytics platform developed using Python, SQL, BigQuery, and machine learning.
+End-to-end credit risk analytics platform built using Python, SQL, BigQuery and Machine Learning.
 
-Highlights:
+Highlights
 
-- Processed over 50,000 banking transactions
-- Built automated ETL pipeline
+- Processed 50,000+ banking transactions
+- Automated ETL pipeline
 - Engineered 15+ behavioral risk features
-- Trained Logistic Regression, Random Forest, and Gradient Boosting models
-- Achieved an AUC-ROC above 0.88
-- Integrated SHAP explainability for model interpretation
+- Built Logistic Regression, Random Forest and Gradient Boosting models
+- Achieved AUC-ROC greater than 0.88
+- Integrated SHAP Explainability
 
-**Technologies**
+**Tech Stack**
 
 `Python` `SQL` `BigQuery` `Machine Learning` `SHAP`
 
 ---
 
-### BMW Sales Analytics Dashboard
+## BMW Sales Analytics Dashboard
 
-Interactive Power BI dashboard built using more than 50,000 global sales records.
+Interactive Power BI dashboard built using 50,000+ sales records.
 
-Features:
+Highlights
 
-- Revenue analysis
-- Regional performance
-- EV market share
-- KPI reporting
-- Interactive drill-down filters
-- Executive dashboard
+- Revenue Analytics
+- Regional Sales Performance
+- EV Market Share
+- Executive KPI Dashboard
+- Interactive Drill-down Filters
 
-**Technologies**
+**Tech Stack**
 
 `Power BI` `SQL` `Excel`
 
 ---
 
-## Leadership
+# Leadership
 
-**Content Team Lead – Entrepreneurship Cell, VIT Chennai**
+### Content Team Lead — Entrepreneurship Cell, VIT Chennai
 
-- Managed content campaigns for a multidisciplinary team
-- Coordinated with design, social media, and event teams
-- Used Jira for sprint planning and Confluence for project documentation
-
----
-
-## Achievements
-
-- Indian Patent: **IN202641054272 A1**
-  - *Geo-fenced Passenger Seat Occupancy Monitoring System Using Structured Image Analysis*
-
-- Winner of **LIBATHON**
-  - Developed the Shelf Scan Library Automation System
+- Led content strategy for a multidisciplinary student team
+- Managed sprint planning using Jira
+- Maintained project documentation using Confluence
+- Coordinated with Design, Social Media and Event teams
 
 ---
 
-## Publications
+# Achievements
 
-- The Importance of Feature Engineering in Machine Learning
+- Indian Patent (IN202641054272 A1)
+  - Geo-fenced Passenger Seat Occupancy Monitoring System Using Structured Image Analysis
+
+- Winner — LIBATHON
+  - Developed Shelf Scan Library Automation System
+
+---
+
+# Publications
+
+### The Importance of Feature Engineering in Machine Learning
 
 https://medium.com/@ramanan312004/the-importance-of-feature-engineering-in-machine-learning-ed95b6762dd4
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RAMANAN31&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAMANAN31&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=RAMANAN31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=RAMANAN31&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAMANAN31&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=RAMANAN31&theme=tokyonight&hide_border=true)
 
 ---
 
-## Connect
+# GitHub Trophies
 
-Email: **ramanan312004@gmail.com**
-
-LinkedIn:
-https://www.linkedin.com/in/ramanan-g
-
-GitHub:
-https://github.com/RAMANAN31
+[![trophy](https://github-profile-trophy.vercel.app/?username=RAMANAN31&theme=algolia&no-frame=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-*"Turning data into decisions through analytics, machine learning, and business intelligence."*
+# GitHub Activity Graph
+
+[![Ramanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAMANAN31&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramanan-g)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanan312004@gmail.com)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@ramanan312004)
+
+---
+
+> "Turning data into decisions through analytics, machine learning and business intelligence."
